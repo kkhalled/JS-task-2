@@ -1,20 +1,4 @@
-// var quotes = {
-//   1: {
-//     quote: "bismallah allah akber",
-//     author: "khaled",
-//   },
-// };
 
-// var num=1;
-
-// function genrateQuote() {
-
-//   document.getElementById("quote").innerText = quotes[1].quote;
-//   document.getElementById("author").innerHTML = quotes[num].author;
-//   return num;
-// }
-
-//  genrateQuote();
 
 var quotes = [
   {
