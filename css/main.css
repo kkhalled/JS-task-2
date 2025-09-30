@@ -1,0 +1,19 @@
+.content{
+    text-align: center;
+}
+.content h1{
+    font-size: 80px;
+    font-weight: 900;
+}
+.content p{
+     font-size: 35px;
+    font-weight: 500;
+}
+.content button{
+    padding: 30px 90px;
+    background-color: blue;
+    color: white;
+}
+.content button:hover{
+    background-color: green;
+}
